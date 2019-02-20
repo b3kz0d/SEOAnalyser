@@ -10,18 +10,19 @@ Wrote sample test senario for tesing AnalyserService functionality. Tests are wr
 #### Using the app
 The web application does not require any authorization. Open your browser and drop text or link for SEO analyze. There is have four options: By default, all is selected. 
 
-Markup : * Show number of words
-         * Filter out stop words
-         * Show number of meta tags in Url
-         * Show number of external links
+* Show number of words.
+* Filter out stop words.
+* Show number of meta tags in Url.
+* Show number of external links.
 
 Results show the bottom of the content as a table.
 The table has sort, search and paging functionality.
 
 #### Implementation details
 
--- used Bootstrap 4
--- used JQuery 3.3.1
--- used CDN JQuery DataTable
--- used HtmlAgilityPack for parsing HTML
--- default ASP.NET MVC 5 template is used for project creation. It may contain unused files.
+- used Bootstrap 4.
+- used JQuery 3.3.1.
+- used CDN JQuery DataTable.
+- used HtmlAgilityPack for parsing HTML.
+- default ASP.NET MVC 5 template is used for project creation. It may contain unused files.
+
